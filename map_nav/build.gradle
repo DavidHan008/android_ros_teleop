@@ -1,0 +1,46 @@
+/*
+ * Copyright (C) 2013 Yujin Robot.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not
+ * use this file except in compliance with the License. You may obtain a copy of
+ * the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations under
+ * the License.
+ */
+dependencies {
+  compile 'com.github.rosjava.android_remocons:common_tools:[0.2,0.3)'
+  compile 'org.ros.android_core:android_15:[0.3,0.4)'
+  compile 'org.ros.rosjava_core:rosjava_geometry:[0.3,0.4)'
+  compile 'org.ros.rosjava_messages:map_store:[0.3,0.4)'
+  compile 'org.ros.rosjava_messages:move_base_msgs:[1.12,1.13)'
+  compile 'org.ros.rosjava_messages:world_canvas_msgs:[0.2,0.3)'
+}
+
+apply plugin: 'com.android.application'
+
+android {
+  compileSdkVersion 25
+  buildToolsVersion "25.0.2"
+
+  defaultConfig {
+    minSdkVersion 15
+    targetSdkVersion 22
+    versionCode 3
+    versionName "1.0.0"
+  }
+  productFlavors {
+    kinetic {
+      applicationId "com.github.rosjava.android_apps.map_nav.kinetic"
+    }
+  }
+  lintOptions {
+    abortOnError = false
+  }
+}
+

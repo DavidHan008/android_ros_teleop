@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/c493a925a091ac3d8f449d9265fe12482dabb2a7/com.springsource.org.apache.commons.httpclient-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c493a925a091ac3d8f449d9265fe12482dabb2a7">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.springsource.org.apache.commons.httpclient-3.1.0_fed12853dec786a39e941f45686c53640c686a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosjava_test_msgs/0.3.0/d81caa572200690bdeadf5c257f0d09d77623c1a/rosjava_test_msgs-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81caa572200690bdeadf5c257f0d09d77623c1a">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/rosjava_test_msgs-0.3.0_57afab8b9dd336446fc548f4e788042c8af59a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/std_msgs/0.5.10/25de4f33c8f8af231d99ec8fe362089a5fb072e8/std_msgs-0.5.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25de4f33c8f8af231d99ec8fe362089a5fb072e8">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/std_msgs-0.5.10_9f5af42b81e297de4d3f8dbcb06bf77b5ed9383e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/com.github.rosjava.zeroconf_jmdns_suite/jmdns/0.2.1/cf248e6c757b1ded5d4b73040d29720f51e94dbc/jmdns-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf248e6c757b1ded5d4b73040d29720f51e94dbc">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/jmdns-0.2.1_3db470e5ae9e6ee5c4102846174d139b785da799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/roscpp/1.11.19/4c95b05401b2cfc2da15c0d53eb8b764d440615a/roscpp-1.11.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c95b05401b2cfc2da15c0d53eb8b764d440615a">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/roscpp-1.11.19_de6b9ccee97aeb85a49f0540cee892a2e48d43f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_common/0.3.5/f5de19f4f6ee9a84f08e27255f1baaa69401a979/apache_xmlrpc_common-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5de19f4f6ee9a84f08e27255f1baaa69401a979">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/apache_xmlrpc_common-0.3.5_d6696f704fb3bcee21b4c2c49a3c051987654397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rocon_service_pair_msgs/0.7.12/b764861e545be8ab92fd6a9b153e0a85468e5b8f/rocon_service_pair_msgs-0.7.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b764861e545be8ab92fd6a9b153e0a85468e5b8f">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/rocon_service_pair_msgs-0.7.12_885cc616798982e419a7462d9c90f2e4135a6333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/com.github.robotics_in_concert.rocon_rosjava_core/rocon_interactions/0.2.0/4d8e809f68c90a9736070c1cf68920821ac3854b/rocon_interactions-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d8e809f68c90a9736070c1cf68920821ac3854b">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/rocon_interactions-0.2.0_bf2806437477ced64962327993c1f3ae89e698c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/message_generation/0.3.0/5141e448f0ea6a2d6f539219d4fc9b296ff07ca4/message_generation-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5141e448f0ea6a2d6f539219d4fc9b296ff07ca4">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/message_generation-0.3.0_ee5d36df3645a403211f8d261cf83594931255e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.android.support-support-core-ui-25.1.0_0d6aed61501849a71e4d6884a221a4351433f1fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/world_canvas_msgs/0.2.0/ff9704098a4f25adc081b2e67faa513bd0797294/world_canvas_msgs-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff9704098a4f25adc081b2e67faa513bd0797294">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/world_canvas_msgs-0.2.0_148e746b2290719717690a24fc80331affa6fe0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/nav_msgs/1.12.5/1af629301e0c1e2c5ae5dc5086127d0943f752fb/nav_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1af629301e0c1e2c5ae5dc5086127d0943f752fb">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/nav_msgs-1.12.5_29c4c8dfd99490a4c7b31a80814e8aeaf6f6d26a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.5.2.Final/e6fb74a0699abe108969b2ec1f269391169a0426/netty-3.5.2.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6fb74a0699abe108969b2ec1f269391169a0426">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/netty-3.5.2.Final_b7080b423270ee73bc612efdbc2370dfd786f54e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.lang/2.4.0/686e3713650c8e3a5d98723b4d3e239586bf9822/com.springsource.org.apache.commons.lang-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686e3713650c8e3a5d98723b4d3e239586bf9822">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.springsource.org.apache.commons.lang-2.4.0_bd3125e7c1761403857f6a29088f359e24a6bac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/7657caf2c78e1d79c74d36f2ae128a115f7cc180/com.springsource.org.apache.commons.logging-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7657caf2c78e1d79c74d36f2ae128a115f7cc180">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.springsource.org.apache.commons.logging-1.1.1_7e8655eed45b71a527929efb7fdd3f6261cf6f95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.android.support-animated-vector-drawable-25.1.0_6b1d593a0ca1310747e16856b317685588651a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/visualization_msgs/1.12.5/7332bb247c083c2da205f3f0d63e584673024b10/visualization_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7332bb247c083c2da205f3f0d63e584673024b10">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/visualization_msgs-1.12.5_90ea13fd2f1e67cafe94a135bf48a1710a5e5e94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.github.rosjava.android_extras/gingerbread/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecfb222ab5e32d99c0cfc0f0dbf48cb3927add0e">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.github.rosjava.android_extras-gingerbread-0.2.0_a6b20b84a26e33d13e52a5ce8b218373974b84cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.net/2.0.0/3e78766072ff5a5cf3f5431d973c430c94ec612/com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.springsource.org.apache.commons.net-2.0.0_50f8a0e8f96671a839dcdba24196628139b47149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.android.support-support-fragment-25.1.0_211c9b8dbc668f9bd18ed8c0a9e2d9e786a9f35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.github.rosjava.android_remocons/common_tools/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8997b73ae0aebaf850820f257c9bb7580be3be3d">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.github.rosjava.android_remocons-common_tools-0.2.0_97b432d0a4cd8261ca08ca870135369ada53d0ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava/0.3.5/7320e6ff76abf066da6850f44f3dcb05f890e043/rosjava-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7320e6ff76abf066da6850f44f3dcb05f890e043">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/rosjava-0.3.5_4b5bfe7823d5eb3f5df3d8e295f8f1d824d181d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/com.github.robotics_in_concert.rocon_rosjava_core/rosjava_utils/0.2.0/d591f96a1f4b8d3fdccf70aa4035087096093d06/rosjava_utils-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d591f96a1f4b8d3fdccf70aa4035087096093d06">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/rosjava_utils-0.2.0_025bce618c49041be4368ab2df9f0a743746270b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosgraph_msgs/1.11.2/adb731dd5181976b23c217872f61c724a3af70fe/rosgraph_msgs-1.11.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="adb731dd5181976b23c217872f61c724a3af70fe">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/rosgraph_msgs-1.11.2_bbb6e0362701990caee7636544452cfceace08ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.apache.ws.commons/ws-commons-util/1.0.1/126e80ff798fece634bc94e61f8be8a8da00be60/ws-commons-util-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/ws-commons-util-1.0.1_194c11cfed40b95fb50589d36824ee197d71347b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_server/0.3.5/131944a67ea232fe8c64b9ef3223be2e0070ad2b/apache_xmlrpc_server-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="131944a67ea232fe8c64b9ef3223be2e0070ad2b">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/apache_xmlrpc_server-0.3.5_259d01782724d67d5a8bfce4f568567da367d666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.android.support-support-core-utils-25.1.0_213be9bfb676f34a38580ab85ea94491724ac097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/org.ros.android_core/android_15/0.3.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb70427fcf40847ab9c77b168dddc3183daf0c1e">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/org.ros.android_core-android_15-0.3.3_2327ebdde13a2d954bd74364783441f360ea99df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.io/1.4.0/51097cd000ec88214ff181c9f059947de1cf4a35/com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.springsource.org.apache.commons.io-1.4.0_3777864afff7390f3bd1f65294c93acba4df558a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/tf2_msgs/0.5.15/2ceb822da34cb732c7e76a182a474d0a083e0719/tf2_msgs-0.5.15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ceb822da34cb732c7e76a182a474d0a083e0719">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/tf2_msgs-0.5.15_43bec1def75a0a131612828b7c5ac8ee9dd99c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/com.github.robotics_in_concert.rocon_rosjava_core/master_info/0.2.0/dd70b5edef018e453e6e221653f610ac76067d10/master_info-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd70b5edef018e453e6e221653f610ac76067d10">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/master_info-0.2.0_ba012810d03226ca2cfc095934622341f5567a40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.github.rosjava.android_extras/zxing/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a8077a0060649b08f3935995addaf7511bfa344">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.github.rosjava.android_extras-zxing-0.2.0_0d9d3f2aebb6c84e07dde937041a2fe2ca4446dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rocon_interaction_msgs/0.7.12/53ca27c64565783f04bd75146de86d08ccdb9a17/rocon_interaction_msgs-0.7.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53ca27c64565783f04bd75146de86d08ccdb9a17">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/rocon_interaction_msgs-0.7.12_8c296a2e50eae15710bccaa94429545d28250f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava_geometry/0.3.5/b9f85e52141b00356efbb0eebe3f2fd9988a8be4/rosjava_geometry-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9f85e52141b00356efbb0eebe3f2fd9988a8be4">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/rosjava_geometry-0.3.5_71acc7e3c8b2e197fd9717f4b0b5990f9aef8f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rocon_std_msgs/0.7.12/42315a04a38b3bf6b093882702c3924f8926b3c0/rocon_std_msgs-0.7.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42315a04a38b3bf6b093882702c3924f8926b3c0">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/rocon_std_msgs-0.7.12_c5a3367e8bc6931ece5651618760984b6dbd0f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.1/5708df81cf6dbff545695f0be6380b7bbc85accc/dnsjava-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5708df81cf6dbff545695f0be6380b7bbc85accc">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/dnsjava-2.1.1_5facf317f4c2dab333d6fd0bd2f6701573619d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/sensor_msgs/1.12.5/cbf0470b3769130fbe997ca4cc479177d14ddbdb/sensor_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbf0470b3769130fbe997ca4cc479177d14ddbdb">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/sensor_msgs-1.12.5_b1b24449ebff1098d8027bdfd5ab704c35c4545c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/map_store/0.3.1/ff10f6d0f2a2c2bbfd35b875aff5d82801dd8cde/map_store-0.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff10f6d0f2a2c2bbfd35b875aff5d82801dd8cde">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/map_store-0.3.1_a587c9e644ac88e815461a2b4e569e72a42abafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0/5bc66dd95b79db1e437eb08adba124a3e4088dc0/guava-12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/guava-12.0_b81e217f1aa66ee805a0381338735a594e070df8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/gradle_plugins/0.3.0/9915d897f3b5049e99b268068978a1bca0ae7b5d/gradle_plugins-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9915d897f3b5049e99b268068978a1bca0ae7b5d">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/gradle_plugins-0.3.0_3152625ee8ce07606e234b92037d253fff0932ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/diagnostic_msgs/1.12.5/74d9364249591cc38b135e8a17b3200696db4202/diagnostic_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74d9364249591cc38b135e8a17b3200696db4202">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/diagnostic_msgs-1.12.5_31177f239400b1aecd6a54f64ddbef53d3a11d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.github.rosjava.android_remocons/common_tools/0.2.0/jars/libs/snakeyaml-1.10-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44f54d3cccd88ce8e1c6dad1918b295dc2dceefe">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/snakeyaml-1.10-android_4b74b6d1f3951ea3a60beb587bcd5423d94d825b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.android.support-appcompat-v7-25.1.0_87bdb0de8d05d735b77163d6e287f9cf09195c79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/jsr305-1.3.9_207eb78a18cd5bed9f130697e939446aeca29cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_client/0.3.5/71e810ad6cb0d81a75737accb2863e170f59c142/apache_xmlrpc_client-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71e810ad6cb0d81a75737accb2863e170f59c142">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/apache_xmlrpc_client-0.3.5_28c743820d1d3242ef8ab1a85b94958cf0ec1d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/uuid_msgs/1.0.5/352f5f4b9599f6523a858ef8b6e8d1f5b246e525/uuid_msgs-1.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="352f5f4b9599f6523a858ef8b6e8d1f5b246e525">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/uuid_msgs-1.0.5_fd919ad634a8c54b3a25971a2055b078a1c8637c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.android.support-support-v4-25.1.0_9f10db8d4da918b7e9525a122c0c784f1666b5b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.android.support-support-compat-25.1.0_3f289813129daf72808e7b037bd51e1d02d05282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/actionlib_msgs/1.12.5/aa70fb74bb8812b9f49cf95d4b44570ae8b951ee/actionlib_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa70fb74bb8812b9f49cf95d4b44570ae8b951ee">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/actionlib_msgs-1.12.5_1d091a29ef88ff729cb00e31e5416f1c63ad94b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.codec/1.3.0/f8690570eb0913d750262bb4223eed30b0d619ed/com.springsource.org.apache.commons.codec-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8690570eb0913d750262bb4223eed30b0d619ed">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.springsource.org.apache.commons.codec-1.3.0_a40c34896363ca379a20c7e62b44a010457250af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.android.support-support-media-compat-25.1.0_21671401a1333df17096f3f2a927ed850ec7fc0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rocon_app_manager_msgs/0.7.12/bcf3db7b775d5843ea56c477bee4526c45a3a0a6/rocon_app_manager_msgs-0.7.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcf3db7b775d5843ea56c477bee4526c45a3a0a6">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/rocon_app_manager_msgs-0.7.12_7fe206006ac155b03c5ad2a1d0bd232f6e2c3d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.6/4572d589699f09d866a226a14b7f4323c6d8f040/commons-pool-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/commons-pool-1.6_85db07e2ae6f2136433b8b70e717f462c51f5966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/std_srvs/1.11.2/955f46f6f68edc69a1b3394e531e65577ea0030e/std_srvs-1.11.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="955f46f6f68edc69a1b3394e531e65577ea0030e">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/std_srvs-1.11.2_de3f15a66a73d702cd1c8f2717ebdce9354e6c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/Downloads/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/support-annotations-25.1.0_373fefed66b3e3573e68120b624df36bb6149a1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/geometry_msgs/1.12.5/cced5d3f1b4f55a4248884befce7e898856705d/geometry_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0cced5d3f1b4f55a4248884befce7e898856705d">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/geometry_msgs-1.12.5_9014b14257409cf267d66464c9ff9b6eb44e4260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/com.android.support-support-vector-drawable-25.1.0_114038c8e43c0ec7391a2654ae7fff1a14c65c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa7b53a48f07db693569e9f22bb53b6e8d684123">
+        <dex dex="/home/davidhan/android_test/android_apps/make_a_map/build/intermediates/pre-dexed/kinetic/debug/org.ros.android_core-android_10-0.3.3_b1f06a54a82ce460f9b07ff3cbf01c720246a873.jar" />
+    </item>
+
+</items>

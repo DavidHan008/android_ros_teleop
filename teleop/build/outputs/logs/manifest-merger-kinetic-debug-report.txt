@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml
+		INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml
+		INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:4:5-51
+	xmlns:android
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml
+		INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:7:5-68
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:7:22-65
+application
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:9:5-33:19
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:18:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:10:18-50
+		REJECTED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:9:18-49
+		REJECTED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:19:9-36
+	android:largeHeap
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:11:18-42
+	tools:replace
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:12:18-45
+activity#com.github.rosjava.android_apps.teleop.MainActivity
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:13:9-24:20
+	android:screenOrientation
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:15:19-56
+	android:label
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:14:19-51
+	android:name
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:13:19-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:18:27-74
+intent-filter#android.intent.category.DEFAULT+com.github.rosjava.android_apps.teleop.MainActivity
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:20:13-23:29
+action#com.github.rosjava.android_apps.teleop.MainActivity
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:21:17-94
+	android:name
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:21:25-91
+category#android.intent.category.DEFAULT
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:22:27-73
+activity#org.ros.android.MasterChooser
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:26:9-66
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:21:9-25:54
+	android:label
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:23:13-45
+	android:launchMode
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:24:13-42
+	android:theme
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:25:13-51
+	android:name
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:26:19-63
+service#org.ros.android.NodeMainExecutorService
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:28:9-32:19
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:27:9-33:19
+	tools:ignore
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:29:13-43
+	android:name
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:28:18-72
+intent-filter#org.ros.android.NodeMainExecutorService
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:29:13-31:29
+action#org.ros.android.NodeMainExecutorService
+ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:30:25-79
+uses-sdk
+INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.rosjava.android_remocons:common_tools:0.2.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.github.rosjava.android_remocons/common_tools/0.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rosjava.android_extras:gingerbread:0.2.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.github.rosjava.android_extras/gingerbread/0.2.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.rosjava.android_extras:zxing:0.2.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.github.rosjava.android_extras/zxing/0.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.ros.android_core:android_15:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_15/0.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml
+		INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml
+		INJECTED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [org.ros.android_core:android_10:0.3.3] /home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/AndroidManifest.xml:16:22-75
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/davidhan/android_test/android_apps/teleop/src/main/AndroidManifest.xml:2:1-34:12 reason: org.ros.android.android_10 requested WRITE_EXTERNAL_STORAGE

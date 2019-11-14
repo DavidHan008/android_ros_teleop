@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/davidhan/android_test/android_apps/teleop/build/intermediates/res/merged/kinetic/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/davidhan/android_test/android_apps/teleop/build/intermediates/res/merged/kinetic/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/davidhan/android_test/android_apps/teleop/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

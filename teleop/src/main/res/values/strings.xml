@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="stop_app">Kill</string>
+    <string name="app_name">Teleop</string>
+    <string name="camera_topic">compressed_image</string>
+    <string name="joystick_topic">cmd_vel</string>
+</resources>
